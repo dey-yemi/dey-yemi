@@ -35,7 +35,7 @@ Basic understanding of:
 
 ## 🔍 Currently Learning:
 - Kubernetes
-- Cloud Technologies(AWS, GCP, AZURE) and tools
+- Cloud Technologies(AWS, AZURE) and tools
 
 ***And, I am happy to learn other Tech Stacks if needed.***
 
